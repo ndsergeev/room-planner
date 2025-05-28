@@ -1,0 +1,19 @@
+### macOS ###
+# General
+.DS_Store
+
+Icon
+
+### Swift ###
+
+## User settings
+xcuserdata/
+
+### Xcode ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
+**/xcshareddata/WorkspaceSettings.xcsettings
